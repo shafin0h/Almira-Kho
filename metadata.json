@@ -1,0 +1,6 @@
+{
+  "name": "Almira Kho Editorial Portfolio",
+  "description": "Editorial fashion photography portfolio for Almira Kho featuring Thom Browne S25 backstage capture with pinned editorial typography, consecutive full-screen imagery, and magnetic transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
